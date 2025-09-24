@@ -1,0 +1,5 @@
+{
+  "name": "Sub-Anki: Subtitle to Flashcard Generator",
+  "description": "A user-friendly web application that enables language learners to generate Anki flashcard decks directly from subtitle files (SRT or WebVTT format) using AI.",
+  "requestFramePermissions": []
+}
